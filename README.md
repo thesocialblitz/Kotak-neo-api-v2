@@ -11,6 +11,9 @@ Python 3.10 to 3.13
 ### pip install
 
 If the python package is hosted on a repository, you can install directly using:
+```
+pip install "git+https://github.com/thesocialblitz/Kotak-neo-api-v2.git"
+```
 
 ```sh
 pip install "git+https://github.com/Kotak-Neo/Kotak-neo-api-v2.git@v2.0.1#egg=neo_api_client"
